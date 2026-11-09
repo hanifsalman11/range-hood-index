@@ -1,0 +1,62 @@
+name: Autonomous Range Hood CFM & Make-Up Air Sizing Engine
+
+on:
+  schedule:
+    - cron: '44 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      custom_hood:
+        description: 'Optional Range Hood or Stove Model (e.g. ZLINE KB-36 700 CFM or Wolf 48 Gas Range)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  generate-hood-calculators:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build Range Hood Calculators & Ping Search Engines
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_BASE_URL: ${{ secrets.SITE_BASE_URL }}
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          PAGES_PER_RUN: '3'
+          CUSTOM_HOOD: ${{ github.event.inputs.custom_hood || '' }}
+        run: |
+          python engine/hood_builder.py
+
+      - name: Self-Healing Commit & Push to Trigger GitHub Pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ data/published_hoods.json
+          if git diff --staged --quiet; then
+            echo "No new range hood calculator pages to commit."
+          else
+            git commit -m "chore(hood): auto-publish new range hood CFM & make-up air calculators"
+            for i in 1 2 3; do
+              git pull --rebase origin main || true
+              if git push origin main; then
+                echo "Pushed successfully on attempt $i"
+                break
+              fi
+              sleep 5
+            done
+          fi
