@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "hood_name": "ZLINE KB-36 (36-Inch 700 CFM) Wall-Mount Range Hood",
+    "slug": "zline-kb-36-36-inch-700-cfm-wall-mount-range-hood-cfm-duct-calculator",
+    "title": "ZLINE KB-36 (36-Inch 700 CFM) Wall-Mount Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (720 CFM for 60,000 BTU), 8-inch rigid duct velocity (2,063 FPM), and IRC M1503.4 Make-Up Air damper sizing for ZLINE KB-36 (36-Inch 700 CFM) Wall-Mount Range Hood.",
+    "hood_in": 36,
+    "btu": 60000,
+    "cfm": 720,
+    "duct_in": 8,
+    "date": "2026-11-09"
+  },
+  {
+    "hood_name": "ZLINE KL3-48 (48-Inch 1,200 CFM) Dual-Motor Pro Hood",
+    "slug": "zline-kl3-48-48-inch-1200-cfm-dual-motor-pro-hood-cfm-duct-calculator",
+    "title": "ZLINE KL3-48 (48-Inch 1,200 CFM) Dual-Motor Pro Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (1,220 CFM for 102,000 BTU), 10-inch rigid duct velocity (2,239 FPM), and IRC M1503.4 Make-Up Air damper sizing for ZLINE KL3-48 (48-Inch 1,200 CFM) Dual-Motor Pro Hood.",
+    "hood_in": 48,
+    "btu": 102000,
+    "cfm": 1220,
+    "duct_in": 10,
+    "date": "2026-11-09"
+  },
+  {
+    "hood_name": "ZLINE 698-36 (36-Inch 700 CFM) Custom Wood Hood Insert",
+    "slug": "zline-698-36-36-inch-700-cfm-custom-wood-hood-insert-cfm-duct-calculator",
+    "title": "ZLINE 698-36 (36-Inch 700 CFM) Custom Wood Hood Insert CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (740 CFM for 62,000 BTU), 8-inch rigid duct velocity (2,120 FPM), and IRC M1503.4 Make-Up Air damper sizing for ZLINE 698-36 (36-Inch 700 CFM) Custom Wood Hood Insert.",
+    "hood_in": 36,
+    "btu": 62000,
+    "cfm": 740,
+    "duct_in": 8,
+    "date": "2026-11-09"
+  }
+]

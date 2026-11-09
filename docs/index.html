@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HoodCFMIndex — Kitchen Range Hood CFM, Gas BTU, Duct Size & Make-Up Air Calculator (2026)</title>
+  <meta name="description" content="Calculate exact kitchen range hood CFM for gas stove BTU output, rigid duct diameter, Equivalent Duct Length static loss, and IRC M1503.4 400-CFM Make-Up Air damper sizing for ZLINE, Vent-A-Hood, Hauslane, Broan, Wolf, and Thor ranges.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/range-hood-index/">
+  <link rel="alternate" type="application/rss+xml" title="HoodCFMIndex RSS Feed" href="https://hanifsalman11.github.io/range-hood-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-teal-500 text-slate-950 px-2 py-0.5 rounded font-black">HOOD</span>CFMIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Stainless%2BSteel%2BRange%2BHood%2B600%2BCFM%2B900%2BCFM%2BMake%2BUp%2BAir%2BDamper&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-teal-500 hover:bg-teal-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Range Hoods & Make-Up Air Kits on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Range Hood CFM, Gas BTU, Duct Size & Make-Up Air Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your range hood model or gas stove BTU rating below to calculate HVI/NKBA exhaust CFM, rigid round duct diameter (6"/8"/10"), and IRC M1503.4 motorized Make-Up Air damper requirements.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search range hood or stove size (e.g. ZLINE 36, Hauslane, Vent-A-Hood, Wolf 48, 60000 BTU, Make Up Air...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-teal-500">
+      </div>
+    </div>
+
+    <div id="hoodGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="zline-698-36-36-inch-700-cfm-custom-wood-hood-insert-cfm-duct-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-teal-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-teal-500 text-slate-950 px-2.5 py-0.5 rounded">740 CFM (36")</span>
+            <span class="text-xs text-slate-400">62k BTU | 8" Duct</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-teal-400 transition">ZLINE 698-36 (36-Inch 700 CFM) Custom Wood Hood Insert</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact range hood exhaust flow (740 CFM for 62,000 BTU), 8-inch rigid duct velocity (2,120 FPM), and IRC M1503.4 Make-Up Air damper sizing for ZLINE 698-36 (36-Inch 700 CFM) Custom Wood Hood Insert.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-teal-400">Calculate CFM, Duct & Make-Up Air →</span>
+        </a>
+        <a href="zline-kl3-48-48-inch-1200-cfm-dual-motor-pro-hood-cfm-duct-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-teal-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-teal-500 text-slate-950 px-2.5 py-0.5 rounded">1,220 CFM (48")</span>
+            <span class="text-xs text-slate-400">102k BTU | 10" Duct</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-teal-400 transition">ZLINE KL3-48 (48-Inch 1,200 CFM) Dual-Motor Pro Hood</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact range hood exhaust flow (1,220 CFM for 102,000 BTU), 10-inch rigid duct velocity (2,239 FPM), and IRC M1503.4 Make-Up Air damper sizing for ZLINE KL3-48 (48-Inch 1,200 CFM) Dual-Motor Pro Hood.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-teal-400">Calculate CFM, Duct & Make-Up Air →</span>
+        </a>
+        <a href="zline-kb-36-36-inch-700-cfm-wall-mount-range-hood-cfm-duct-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-teal-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-teal-500 text-slate-950 px-2.5 py-0.5 rounded">720 CFM (36")</span>
+            <span class="text-xs text-slate-400">60k BTU | 8" Duct</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-teal-400 transition">ZLINE KB-36 (36-Inch 700 CFM) Wall-Mount Range Hood</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact range hood exhaust flow (720 CFM for 60,000 BTU), 8-inch rigid duct velocity (2,063 FPM), and IRC M1503.4 Make-Up Air damper sizing for ZLINE KB-36 (36-Inch 700 CFM) Wall-Mount Range Hood.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-teal-400">Calculate CFM, Duct & Make-Up Air →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 HoodCFMIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('hoodGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
