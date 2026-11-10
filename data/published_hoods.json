@@ -97,5 +97,38 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-10"
+  },
+  {
+    "hood_name": "Zephyr Tempest II ZPT-E36BS (36-Inch 650 / 1,200 CFM)",
+    "slug": "zephyr-tempest-ii-zpt-e36bs-36-inch-650-1200-cfm-cfm-duct-calculator",
+    "title": "Zephyr Tempest II ZPT-E36BS (36-Inch 650 / 1,200 CFM) CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Zephyr Tempest II ZPT-E36BS (36-Inch 650 / 1,200 CFM).",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-10"
+  },
+  {
+    "hood_name": "Zephyr Monsoon II (36-Inch & 48-Inch) Custom Liner Insert",
+    "slug": "zephyr-monsoon-ii-36-inch-48-inch-custom-liner-insert-cfm-duct-calculator",
+    "title": "Zephyr Monsoon II (36-Inch & 48-Inch) Custom Liner Insert CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (1,100 CFM for 92,000 BTU), 10-inch rigid duct velocity (2,018 FPM), and IRC M1503.4 Make-Up Air damper sizing for Zephyr Monsoon II (36-Inch & 48-Inch) Custom Liner Insert.",
+    "hood_in": 48,
+    "btu": 92000,
+    "cfm": 1100,
+    "duct_in": 10,
+    "date": "2026-11-10"
+  },
+  {
+    "hood_name": "XtremeAirPX06-U36 (36-Inch 900 CFM) 1.0mm Stainless",
+    "slug": "xtremeairpx06-u36-36-inch-900-cfm-10mm-stainless-cfm-duct-calculator",
+    "title": "XtremeAirPX06-U36 (36-Inch 900 CFM) 1.0mm Stainless CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (900 CFM for 68,000 BTU), 8-inch rigid duct velocity (2,579 FPM), and IRC M1503.4 Make-Up Air damper sizing for XtremeAirPX06-U36 (36-Inch 900 CFM) 1.0mm Stainless.",
+    "hood_in": 36,
+    "btu": 68000,
+    "cfm": 900,
+    "duct_in": 8,
+    "date": "2026-11-10"
   }
 ]
