@@ -130,5 +130,38 @@
     "cfm": 900,
     "duct_in": 8,
     "date": "2026-11-10"
+  },
+  {
+    "hood_name": "Cosmo QS75 & 668ICS750 (30-Inch 500 CFM) Range Hood",
+    "slug": "cosmo-qs75-668ics750-30-inch-500-cfm-range-hood-cfm-duct-calculator",
+    "title": "Cosmo QS75 & 668ICS750 (30-Inch 500 CFM) Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (530 CFM for 44,000 BTU), 8-inch rigid duct velocity (1,519 FPM), and IRC M1503.4 Make-Up Air damper sizing for Cosmo QS75 & 668ICS750 (30-Inch 500 CFM) Range Hood.",
+    "hood_in": 30,
+    "btu": 44000,
+    "cfm": 530,
+    "duct_in": 8,
+    "date": "2026-11-10"
+  },
+  {
+    "hood_name": "Fotile JQG7501 & Pixie Air (30-Inch 850 CFM) Side-Draft",
+    "slug": "fotile-jqg7501-pixie-air-30-inch-850-cfm-side-draft-cfm-duct-calculator",
+    "title": "Fotile JQG7501 & Pixie Air (30-Inch 850 CFM) Side-Draft CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (850 CFM for 56,000 BTU), 8-inch rigid duct velocity (2,436 FPM), and IRC M1503.4 Make-Up Air damper sizing for Fotile JQG7501 & Pixie Air (30-Inch 850 CFM) Side-Draft.",
+    "hood_in": 30,
+    "btu": 56000,
+    "cfm": 850,
+    "duct_in": 8,
+    "date": "2026-11-10"
+  },
+  {
+    "hood_name": "Faber Inca Pro Plus (30-Inch & 36-Inch 600 CFM) Insert",
+    "slug": "faber-inca-pro-plus-30-inch-36-inch-600-cfm-insert-cfm-duct-calculator",
+    "title": "Faber Inca Pro Plus (30-Inch & 36-Inch 600 CFM) Insert CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (650 CFM for 54,000 BTU), 8-inch rigid duct velocity (1,862 FPM), and IRC M1503.4 Make-Up Air damper sizing for Faber Inca Pro Plus (30-Inch & 36-Inch 600 CFM) Insert.",
+    "hood_in": 36,
+    "btu": 54000,
+    "cfm": 650,
+    "duct_in": 8,
+    "date": "2026-11-10"
   }
 ]
