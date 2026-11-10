@@ -64,5 +64,38 @@
     "cfm": 700,
     "duct_in": 8,
     "date": "2026-11-09"
+  },
+  {
+    "hood_name": "Vent-A-Hood PRH18-348 (48-Inch 900 CFM) Triple Blower",
+    "slug": "vent-a-hood-prh18-348-48-inch-900-cfm-triple-blower-cfm-duct-calculator",
+    "title": "Vent-A-Hood PRH18-348 (48-Inch 900 CFM) Triple Blower CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (1,080 CFM for 90,000 BTU), 10-inch rigid duct velocity (1,982 FPM), and IRC M1503.4 Make-Up Air damper sizing for Vent-A-Hood PRH18-348 (48-Inch 900 CFM) Triple Blower.",
+    "hood_in": 48,
+    "btu": 90000,
+    "cfm": 1080,
+    "duct_in": 10,
+    "date": "2026-11-10"
+  },
+  {
+    "hood_name": "Broan-NuTone E60E36SS Elite (36-Inch 650 CFM) Pro Hood",
+    "slug": "broan-nutone-e60e36ss-elite-36-inch-650-cfm-pro-hood-cfm-duct-calculator",
+    "title": "Broan-NuTone E60E36SS Elite (36-Inch 650 CFM) Pro Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (660 CFM for 55,000 BTU), 8-inch rigid duct velocity (1,891 FPM), and IRC M1503.4 Make-Up Air damper sizing for Broan-NuTone E60E36SS Elite (36-Inch 650 CFM) Pro Hood.",
+    "hood_in": 36,
+    "btu": 55000,
+    "cfm": 660,
+    "duct_in": 8,
+    "date": "2026-11-10"
+  },
+  {
+    "hood_name": "Broan-NuTone MD8TU & MD6TU Universal Make-Up Air Damper",
+    "slug": "broan-nutone-md8tu-md6tu-universal-make-up-air-damper-cfm-duct-calculator",
+    "title": "Broan-NuTone MD8TU & MD6TU Universal Make-Up Air Damper CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Broan-NuTone MD8TU & MD6TU Universal Make-Up Air Damper.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-10"
   }
 ]
