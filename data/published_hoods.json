@@ -196,5 +196,38 @@
     "cfm": 700,
     "duct_in": 8,
     "date": "2026-11-11"
+  },
+  {
+    "hood_name": "36-Inch 6-Burner Pro Gas Range (72,000 BTU) Hood Sizing",
+    "slug": "36-inch-6-burner-pro-gas-range-72000-btu-hood-sizing-cfm-duct-calculator",
+    "title": "36-Inch 6-Burner Pro Gas Range (72,000 BTU) Hood Sizing CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (860 CFM for 72,000 BTU), 8-inch rigid duct velocity (2,464 FPM), and IRC M1503.4 Make-Up Air damper sizing for 36-Inch 6-Burner Pro Gas Range (72,000 BTU) Hood Sizing.",
+    "hood_in": 36,
+    "btu": 72000,
+    "cfm": 860,
+    "duct_in": 8,
+    "date": "2026-11-11"
+  },
+  {
+    "hood_name": "36-Inch Kitchen Island Gas Cooktop (60,000 BTU) Hood Sizing",
+    "slug": "36-inch-kitchen-island-gas-cooktop-60000-btu-hood-sizing-cfm-duct-calculator",
+    "title": "36-Inch Kitchen Island Gas Cooktop (60,000 BTU) Hood Sizing CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (900 CFM for 60,000 BTU), 8-inch rigid duct velocity (2,579 FPM), and IRC M1503.4 Make-Up Air damper sizing for 36-Inch Kitchen Island Gas Cooktop (60,000 BTU) Hood Sizing.",
+    "hood_in": 42,
+    "btu": 60000,
+    "cfm": 900,
+    "duct_in": 8,
+    "date": "2026-11-11"
+  },
+  {
+    "hood_name": "48-Inch 8-Burner / Griddle Pro Range (105,000 BTU) Sizing",
+    "slug": "48-inch-8-burner-griddle-pro-range-105000-btu-sizing-cfm-duct-calculator",
+    "title": "48-Inch 8-Burner / Griddle Pro Range (105,000 BTU) Sizing CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (1,260 CFM for 105,000 BTU), 10-inch rigid duct velocity (2,312 FPM), and IRC M1503.4 Make-Up Air damper sizing for 48-Inch 8-Burner / Griddle Pro Range (105,000 BTU) Sizing.",
+    "hood_in": 48,
+    "btu": 105000,
+    "cfm": 1260,
+    "duct_in": 10,
+    "date": "2026-11-11"
   }
 ]
