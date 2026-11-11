@@ -163,5 +163,38 @@
     "cfm": 650,
     "duct_in": 8,
     "date": "2026-11-10"
+  },
+  {
+    "hood_name": "Fantech FKD8XL &HL10 Inline Remote Attic Range Blower",
+    "slug": "fantech-fkd8xl-hl10-inline-remote-attic-range-blower-cfm-duct-calculator",
+    "title": "Fantech FKD8XL &HL10 Inline Remote Attic Range Blower CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (1,140 CFM for 95,000 BTU), 10-inch rigid duct velocity (2,092 FPM), and IRC M1503.4 Make-Up Air damper sizing for Fantech FKD8XL &HL10 Inline Remote Attic Range Blower.",
+    "hood_in": 48,
+    "btu": 95000,
+    "cfm": 1140,
+    "duct_in": 10,
+    "date": "2026-11-11"
+  },
+  {
+    "hood_name": "30-Inch 4-Burner Gas Range (45,000 BTU) Hood CFM Sizing",
+    "slug": "30-inch-4-burner-gas-range-45000-btu-hood-cfm-sizing-cfm-duct-calculator",
+    "title": "30-Inch 4-Burner Gas Range (45,000 BTU) Hood CFM Sizing CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (550 CFM for 45,000 BTU), 8-inch rigid duct velocity (1,576 FPM), and IRC M1503.4 Make-Up Air damper sizing for 30-Inch 4-Burner Gas Range (45,000 BTU) Hood CFM Sizing.",
+    "hood_in": 30,
+    "btu": 45000,
+    "cfm": 550,
+    "duct_in": 8,
+    "date": "2026-11-11"
+  },
+  {
+    "hood_name": "30-Inch 5-Burner Pro Gas Range (58,000 BTU) Hood Sizing",
+    "slug": "30-inch-5-burner-pro-gas-range-58000-btu-hood-sizing-cfm-duct-calculator",
+    "title": "30-Inch 5-Burner Pro Gas Range (58,000 BTU) Hood Sizing CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (700 CFM for 58,000 BTU), 8-inch rigid duct velocity (2,006 FPM), and IRC M1503.4 Make-Up Air damper sizing for 30-Inch 5-Burner Pro Gas Range (58,000 BTU) Hood Sizing.",
+    "hood_in": 36,
+    "btu": 58000,
+    "cfm": 700,
+    "duct_in": 8,
+    "date": "2026-11-11"
   }
 ]
