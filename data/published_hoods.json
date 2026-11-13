@@ -295,5 +295,38 @@
     "cfm": 430,
     "duct_in": 8,
     "date": "2026-11-12"
+  },
+  {
+    "hood_name": "Indoor Wok Burner & High-Heat Searing (900+ CFM) Hood",
+    "slug": "indoor-wok-burner-high-heat-searing-900-cfm-hood-cfm-duct-calculator",
+    "title": "Indoor Wok Burner & High-Heat Searing (900+ CFM) Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (950 CFM for 75,000 BTU), 10-inch rigid duct velocity (1,743 FPM), and IRC M1503.4 Make-Up Air damper sizing for Indoor Wok Burner & High-Heat Searing (900+ CFM) Hood.",
+    "hood_in": 42,
+    "btu": 75000,
+    "cfm": 950,
+    "duct_in": 10,
+    "date": "2026-11-13"
+  },
+  {
+    "hood_name": "IRC M1503.4 400-CFM Make-Up Air Threshold & Damper Sizing",
+    "slug": "irc-m15034-400-cfm-make-up-air-threshold-damper-sizing-cfm-duct-calculator",
+    "title": "IRC M1503.4 400-CFM Make-Up Air Threshold & Damper Sizing CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (720 CFM for 60,000 BTU), 8-inch rigid duct velocity (2,063 FPM), and IRC M1503.4 Make-Up Air damper sizing for IRC M1503.4 400-CFM Make-Up Air Threshold & Damper Sizing.",
+    "hood_in": 36,
+    "btu": 60000,
+    "cfm": 720,
+    "duct_in": 8,
+    "date": "2026-11-13"
+  },
+  {
+    "hood_name": "6-Inch vs 8-Inch vs 10-Inch Range Hood Duct CFM & Sone Loss",
+    "slug": "6-inch-vs-8-inch-vs-10-inch-range-hood-duct-cfm-sone-loss-cfm-duct-calculator",
+    "title": "6-Inch vs 8-Inch vs 10-Inch Range Hood Duct CFM & Sone Loss CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for 6-Inch vs 8-Inch vs 10-Inch Range Hood Duct CFM & Sone Loss.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-13"
   }
 ]
