@@ -328,5 +328,38 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-13"
+  },
+  {
+    "hood_name": "What    Range Hood",
+    "slug": "what-range-hood-cfm-duct-calculator",
+    "title": "What    Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for What    Range Hood.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-13"
+  },
+  {
+    "hood_name": "What  Duct  600  Range Hood",
+    "slug": "what-duct-600-range-hood-cfm-duct-calculator",
+    "title": "What  Duct  600  Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for What  Duct  600  Range Hood.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-13"
+  },
+  {
+    "hood_name": "What  Duct  400  Range Hood",
+    "slug": "what-duct-400-range-hood-cfm-duct-calculator",
+    "title": "What  Duct  400  Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for What  Duct  400  Range Hood.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-13"
   }
 ]
