@@ -361,5 +361,38 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-13"
+  },
+  {
+    "hood_name": "What  Duct  1000  Range Hood",
+    "slug": "what-duct-1000-range-hood-cfm-duct-calculator",
+    "title": "What  Duct  1000  Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for What  Duct  1000  Range Hood.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-14"
+  },
+  {
+    "hood_name": "What  Duct  900  Range Hood",
+    "slug": "what-duct-900-range-hood-cfm-duct-calculator",
+    "title": "What  Duct  900  Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for What  Duct  900  Range Hood.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-14"
+  },
+  {
+    "hood_name": "How Much  Do I Need  Range Hood",
+    "slug": "how-much-do-i-need-range-hood-cfm-duct-calculator",
+    "title": "How Much  Do I Need  Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for How Much  Do I Need  Range Hood.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-14"
   }
 ]
