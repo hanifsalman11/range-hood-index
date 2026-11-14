@@ -427,5 +427,38 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-14"
+  },
+  {
+    "hood_name": "Zline Range Hood 30",
+    "slug": "zline-range-hood-30-cfm-duct-calculator",
+    "title": "Zline Range Hood 30 CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (580 CFM for 48,000 BTU), 8-inch rigid duct velocity (1,662 FPM), and IRC M1503.4 Make-Up Air damper sizing for Zline Range Hood 30.",
+    "hood_in": 30,
+    "btu": 48000,
+    "cfm": 580,
+    "duct_in": 8,
+    "date": "2026-11-14"
+  },
+  {
+    "hood_name": "Zline Range Hood Insert",
+    "slug": "zline-range-hood-insert-cfm-duct-calculator",
+    "title": "Zline Range Hood Insert CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Zline Range Hood Insert.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-14"
+  },
+  {
+    "hood_name": "Zline Range Hood Parts",
+    "slug": "zline-range-hood-parts-cfm-duct-calculator",
+    "title": "Zline Range Hood Parts CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Zline Range Hood Parts.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-14"
   }
 ]
