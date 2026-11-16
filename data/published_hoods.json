@@ -559,5 +559,38 @@
     "cfm": 580,
     "duct_in": 8,
     "date": "2026-11-16"
+  },
+  {
+    "hood_name": "Hauslane Range Hood Home Depot",
+    "slug": "hauslane-range-hood-home-depot-cfm-duct-calculator",
+    "title": "Hauslane Range Hood Home Depot CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Hauslane Range Hood Home Depot.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-16"
+  },
+  {
+    "hood_name": "Hauslane Range Hood How To Change Time",
+    "slug": "hauslane-range-hood-how-to-change-time-cfm-duct-calculator",
+    "title": "Hauslane Range Hood How To Change Time CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Hauslane Range Hood How To Change Time.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-16"
+  },
+  {
+    "hood_name": "Hauslane Range Hood Installation",
+    "slug": "hauslane-range-hood-installation-cfm-duct-calculator",
+    "title": "Hauslane Range Hood Installation CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Hauslane Range Hood Installation.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-16"
   }
 ]
