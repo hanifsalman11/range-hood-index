@@ -625,5 +625,38 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-17"
+  },
+  {
+    "hood_name": "Hauslane Range Hood 36",
+    "slug": "hauslane-range-hood-36-cfm-duct-calculator",
+    "title": "Hauslane Range Hood 36 CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Hauslane Range Hood 36.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-17"
+  },
+  {
+    "hood_name": "Range Hood",
+    "slug": "range-hood-cfm-duct-calculator",
+    "title": "Range Hood CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Range Hood.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-17"
+  },
+  {
+    "hood_name": "Furnace",
+    "slug": "furnace-cfm-duct-calculator",
+    "title": "Furnace CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Furnace.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-17"
   }
 ]
