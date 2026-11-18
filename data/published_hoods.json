@@ -691,5 +691,38 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-18"
+  },
+  {
+    "hood_name": "Make Up Air Damper With Pressure Sensor",
+    "slug": "make-up-air-damper-with-pressure-sensor-cfm-duct-calculator",
+    "title": "Make Up Air Damper With Pressure Sensor CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Make Up Air Damper With Pressure Sensor.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-18"
+  },
+  {
+    "hood_name": "Make Up Air Damper Wiring",
+    "slug": "make-up-air-damper-wiring-cfm-duct-calculator",
+    "title": "Make Up Air Damper Wiring CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Make Up Air Damper Wiring.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-18"
+  },
+  {
+    "hood_name": "Make Up Air Damper 10",
+    "slug": "make-up-air-damper-10-cfm-duct-calculator",
+    "title": "Make Up Air Damper 10 CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Make Up Air Damper 10.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-18"
   }
 ]
