@@ -724,5 +724,38 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-18"
+  },
+  {
+    "hood_name": "Hauslane Range Hood Light Bulb Replacement",
+    "slug": "hauslane-range-hood-light-bulb-replacement-cfm-duct-calculator",
+    "title": "Hauslane Range Hood Light Bulb Replacement CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Hauslane Range Hood Light Bulb Replacement.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-19"
+  },
+  {
+    "hood_name": "Make Up Air Damper System",
+    "slug": "make-up-air-damper-system-cfm-duct-calculator",
+    "title": "Make Up Air Damper System CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Make Up Air Damper System.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-19"
+  },
+  {
+    "hood_name": "Make Up Air Damper Kitchen",
+    "slug": "make-up-air-damper-kitchen-cfm-duct-calculator",
+    "title": "Make Up Air Damper Kitchen CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Make Up Air Damper Kitchen.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-19"
   }
 ]
