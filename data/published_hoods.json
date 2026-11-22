@@ -823,5 +823,16 @@
     "cfm": 660,
     "duct_in": 8,
     "date": "2026-11-22"
+  },
+  {
+    "hood_name": "30-Inch 55,000 BTU Gas Range (Kitchen Island Mount)",
+    "slug": "30-inch-55000-btu-gas-range-kitchen-island-mount-cfm-duct-calculator",
+    "title": "30-Inch 55,000 BTU Gas Range (Kitchen Island Mount) CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (740 CFM for 55,000 BTU), 8-inch rigid duct velocity (2,120 FPM), and IRC M1503.4 Make-Up Air damper sizing for 30-Inch 55,000 BTU Gas Range (Kitchen Island Mount).",
+    "hood_in": 36,
+    "btu": 55000,
+    "cfm": 740,
+    "duct_in": 8,
+    "date": "2026-11-22"
   }
 ]
