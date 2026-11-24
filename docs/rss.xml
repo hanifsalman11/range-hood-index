@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/range-hood-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>30-Inch 65,000 BTU Gas Range (Wall-Mount Chimney) CFM, Duct Size & Make-Up Air Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/range-hood-index/30-inch-65000-btu-gas-range-wall-mount-chimney-cfm-duct-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/range-hood-index/30-inch-65000-btu-gas-range-wall-mount-chimney-cfm-duct-calculator.html</guid>
+      <description>Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for 30-Inch 65,000 BTU Gas Range (Wall-Mount Chimney).</description>
+    </item>
+    <item>
       <title>30-Inch 55,000 BTU Gas Range (Custom Wood Hood Insert) CFM, Duct Size & Make-Up Air Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/range-hood-index/30-inch-55000-btu-gas-range-custom-wood-hood-insert-cfm-duct-calculator.html</link>
       <guid>https://hanifsalman11.github.io/range-hood-index/30-inch-55000-btu-gas-range-custom-wood-hood-insert-cfm-duct-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/range-hood-index/hauslane-range-hood-reviews-cfm-duct-calculator.html</link>
       <guid>https://hanifsalman11.github.io/range-hood-index/hauslane-range-hood-reviews-cfm-duct-calculator.html</guid>
       <description>Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Hauslane Range Hood Reviews.</description>
-    </item>
-    <item>
-      <title>Zline Range Hood Extension CFM, Duct Size & Make-Up Air Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/range-hood-index/zline-range-hood-extension-cfm-duct-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/range-hood-index/zline-range-hood-extension-cfm-duct-calculator.html</guid>
-      <description>Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Zline Range Hood Extension.</description>
     </item>
   </channel>
 </rss>
