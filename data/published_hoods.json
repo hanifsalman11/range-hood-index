@@ -889,5 +889,38 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-25"
+  },
+  {
+    "hood_name": "Zline Range Hood Installation Video",
+    "slug": "zline-range-hood-installation-video-cfm-duct-calculator",
+    "title": "Zline Range Hood Installation Video CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Zline Range Hood Installation Video.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-25"
+  },
+  {
+    "hood_name": "Hauslane Range Hood Parts",
+    "slug": "hauslane-range-hood-parts-cfm-duct-calculator",
+    "title": "Hauslane Range Hood Parts CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Hauslane Range Hood Parts.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-25"
+  },
+  {
+    "hood_name": "Hauslane Range Hood 36 Inch",
+    "slug": "hauslane-range-hood-36-inch-cfm-duct-calculator",
+    "title": "Hauslane Range Hood 36 Inch CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Hauslane Range Hood 36 Inch.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-25"
   }
 ]
