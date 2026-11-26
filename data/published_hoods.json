@@ -922,5 +922,27 @@
     "cfm": 780,
     "duct_in": 8,
     "date": "2026-11-25"
+  },
+  {
+    "hood_name": "Zline Range Hood Parts List",
+    "slug": "zline-range-hood-parts-list-cfm-duct-calculator",
+    "title": "Zline Range Hood Parts List CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (780 CFM for 65,000 BTU), 8-inch rigid duct velocity (2,235 FPM), and IRC M1503.4 Make-Up Air damper sizing for Zline Range Hood Parts List.",
+    "hood_in": 36,
+    "btu": 65000,
+    "cfm": 780,
+    "duct_in": 8,
+    "date": "2026-11-26"
+  },
+  {
+    "hood_name": "36-Inch 45,000 BTU Gas Range (Wall-Mount Chimney)",
+    "slug": "36-inch-45000-btu-gas-range-wall-mount-chimney-cfm-duct-calculator",
+    "title": "36-Inch 45,000 BTU Gas Range (Wall-Mount Chimney) CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (540 CFM for 45,000 BTU), 8-inch rigid duct velocity (1,547 FPM), and IRC M1503.4 Make-Up Air damper sizing for 36-Inch 45,000 BTU Gas Range (Wall-Mount Chimney).",
+    "hood_in": 36,
+    "btu": 45000,
+    "cfm": 540,
+    "duct_in": 8,
+    "date": "2026-11-26"
   }
 ]
