@@ -966,5 +966,16 @@
     "cfm": 610,
     "duct_in": 8,
     "date": "2026-11-27"
+  },
+  {
+    "hood_name": "36-Inch 45,000 BTU Gas Range (Custom Wood Hood Insert)",
+    "slug": "36-inch-45000-btu-gas-range-custom-wood-hood-insert-cfm-duct-calculator",
+    "title": "36-Inch 45,000 BTU Gas Range (Custom Wood Hood Insert) CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (540 CFM for 45,000 BTU), 8-inch rigid duct velocity (1,547 FPM), and IRC M1503.4 Make-Up Air damper sizing for 36-Inch 45,000 BTU Gas Range (Custom Wood Hood Insert).",
+    "hood_in": 36,
+    "btu": 45000,
+    "cfm": 540,
+    "duct_in": 8,
+    "date": "2026-11-27"
   }
 ]
