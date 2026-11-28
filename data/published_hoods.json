@@ -988,5 +988,16 @@
     "cfm": 660,
     "duct_in": 8,
     "date": "2026-11-28"
+  },
+  {
+    "hood_name": "36-Inch 55,000 BTU Gas Range (Under-Cabinet Pro)",
+    "slug": "36-inch-55000-btu-gas-range-under-cabinet-pro-cfm-duct-calculator",
+    "title": "36-Inch 55,000 BTU Gas Range (Under-Cabinet Pro) CFM, Duct Size & Make-Up Air Calculator (2026)",
+    "description": "Calculate exact range hood exhaust flow (660 CFM for 55,000 BTU), 8-inch rigid duct velocity (1,891 FPM), and IRC M1503.4 Make-Up Air damper sizing for 36-Inch 55,000 BTU Gas Range (Under-Cabinet Pro).",
+    "hood_in": 36,
+    "btu": 55000,
+    "cfm": 660,
+    "duct_in": 8,
+    "date": "2026-11-28"
   }
 ]
